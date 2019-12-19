@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="SistSolar\SistSolar.mdproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoveSol.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RotacionTierra.cs" Line="13" Column="75" />
+      <File FileName="Assets\Scripts\RotacionLuna.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveLuna.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveNibiru.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveSol.cs" Line="36" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="G:\Ramon\DOCENCIA\Asignaturas\Narratividad y Videojuegos\Prácticas\Proyectos\Sistema Solar\Assets\Scripts\MoveSol.cs" line="34" column="1" />
+      <Breakpoint file="G:\Ramon\DOCENCIA\Asignaturas\Narratividad y Videojuegos\Prácticas\Proyectos\Sistema Solar\Assets\Scripts\MoveSol.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
